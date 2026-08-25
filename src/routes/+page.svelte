@@ -78,7 +78,7 @@
 				life is like gambling<br>
 				nothing good ever lasts<br>
 				nothing bad ever lasts<br>
-				keep gambling twin
+				so keep gambling twin
 			</p>
 		</div>
 	</section>
