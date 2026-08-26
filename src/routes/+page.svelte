@@ -44,7 +44,8 @@
 		<h1 id="hero-title" class="font-mono font-bold tracking-tighter text-4xl sm:text-6xl">tuxops</h1>
 
 		<p class="max-w-lg font-content text-sm leading-6 text-black sm:text-base">
-			ctf duo under investigation for furry allegations<br>
+			ctf duo<br>
+			currently under investigation for furry allegations
 		</p>
 
 		<div class="mt-2 flex flex-col gap-4 sm:flex-row">
