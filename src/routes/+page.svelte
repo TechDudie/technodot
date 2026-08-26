@@ -1,6 +1,6 @@
 <main class="relative h-dvh w-full overflow-hidden">
     <img
-        class="absolute inset-0 block h-full max-h-dvh w-full object-cover object-[center_0%]"
+        class="absolute inset-0 block h-full max-h-dvh w-full object-cover object-[center_30%]"
         src="/BBQ_With_Everyone__T_upscaled.webp"
         alt="an shiraishi"
     />
@@ -64,7 +64,7 @@
 
 <main class="relative h-dvh w-full overflow-hidden">
     <img
-        class="absolute inset-0 block h-full max-h-dvh w-full object-cover object-[center_0%]"
+        class="absolute inset-0 block h-full max-h-dvh w-full object-cover object-[center_10%]"
         src="/How_Many_Meters_Is_It!__T_upscaled.webp"
         alt="an shiraishi"
     />
