@@ -12,7 +12,8 @@ manual runs of the `deploy` workflow on `main` install dependencies with
 
 The Pages project, custom domain, and DNS are managed by Terraform in
 [TechDudie/iac](https://github.com/TechDudie/iac). GitHub Actions uses the
-`CLOUDFLARE_PAGES_API_TOKEN` secret and the `CLOUDFLARE_ACCOUNT_ID` and
-`CLOUDFLARE_PAGES_URL` variables. The token needs account-scoped Cloudflare Pages
-edit permission. Keep it in sync with the **production** environment secret
-of the same name in the infrastructure repo when rotating it.
+`CLOUDFLARE_API_TOKEN` secret and the `CLOUDFLARE_ACCOUNT_ID` and
+`CLOUDFLARE_PAGES_URL` variables. This is the infrastructure repo's existing
+Cloudflare token with account-scoped Pages edit permission added. Keep it in
+sync with the **production** environment secret of the same name in the
+infrastructure repo when rotating it.
