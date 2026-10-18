@@ -63,9 +63,9 @@
 	</section>
 </main>
 
-<main class="relative h-dvh w-full overflow-hidden">
+<main class="relative h-[107dvh] w-full overflow-hidden">
     <img
-        class="absolute inset-0 block h-full max-h-dvh w-full object-cover object-[center_0%]"
+        class="absolute inset-0 block h-full max-h-[107dvh] w-full object-cover object-[center_10%]"
         src="https://assets.r2.storage.prod.technodot.org/technodot/tuxops.webp"
         alt="an shiraishi"
     />
@@ -95,7 +95,7 @@
 
 <main class="relative h-dvh w-full overflow-hidden">
     <img
-        class="absolute inset-0 block h-full max-h-dvh w-full object-cover object-[center_10%]"
+        class="absolute inset-0 block h-full max-h-dvh w-full object-cover object-[center_22%]"
         src="https://assets.r2.storage.prod.technodot.org/technodot/gambling.webp"
         alt="an shiraishi"
     />
